@@ -1,3 +1,6 @@
+# CI Test demo
+[![Build status](https://ci.appveyor.com/api/projects/status/a9c470p5emewt2i2?svg=true)](https://ci.appveyor.com/project/MarShal69/symbols-iterators-generators-1)
+
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
 ### **Важные моменты** 
